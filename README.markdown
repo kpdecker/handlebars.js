@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/kpdecker/handlebars.js.png)](http://travis-ci.org/kpdecker/handlebars.js)
 [![Build Status](https://secure.travis-ci.org/wycats/handlebars.js.png)](http://travis-ci.org/wycats/handlebars.js)
 
 Handlebars.js
