@@ -8,7 +8,7 @@ var BenchWarmer = function(names) {
   this.errors = {};
 };
 
-var print = require("sys").print;
+var print = require('util').print;
 
 BenchWarmer.prototype = {
   winners: function(benches) {
